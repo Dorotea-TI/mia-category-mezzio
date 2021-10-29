@@ -1,6 +1,6 @@
 <?php
 
-namespace Mia\Category\Handler\MiaCategory;
+namespace Mia\Category\Handler;
 
 use Mia\Category\Model\MiaCategory;
 use Mia\Core\Helper\StringHelper;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Mia\Category\Handler\MiaCategory;
+namespace Mia\Category\Handler;
 
 use Mia\Core\Exception\MiaException;
 
